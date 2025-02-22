@@ -21,8 +21,8 @@ export default function Navlinks() {
     const location = useLocation();
 
     return (
-        <div>
-            <ul className="flex items-center gap-3 mobile-lg:flex-col mobile-lg:items-start mobile-lg:justify-start ">
+        <div className="mobile-lg:w-full">
+            <ul className="flex items-center gap-3 mobile-lg:flex-col mobile-lg:w-40 mobile-lg:items-start mobile-lg:justify-start ">
                 {LINKS.map(link => (
                     <li key={link.name}>
                         <NavLink to={link.path} className={''}>

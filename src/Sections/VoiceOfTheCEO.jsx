@@ -23,8 +23,8 @@ export default function VoiceOfTheCEO() {
 
                         {/* CEO Quote */}
                         <p className="text-xl mb-6 font-serif italic max-w-2xl mx-auto">
-                            &quot;At Travel Lane Connect, we are dedicated to making travel dreams
-                            come true. Our mission is to offer seamless travel solutions,
+                            &quot;At Latitude Overseas Limited , we are dedicated to making travel
+                            dreams come true. Our mission is to offer seamless travel solutions,
                             personalized guidance, and the expertise you need for unforgettable
                             experiences abroad. Every client is our priority.&quot;
                         </p>
@@ -32,12 +32,12 @@ export default function VoiceOfTheCEO() {
                         {/* Quote Icon and CEO Name */}
                         <div className="flex justify-center items-center gap-2 mb-2">
                             <FormatQuote className="text-4xl" />
-                            <span className="text-xl font-semibold">Safa Chowdhury</span>
+                            <span className="text-xl font-semibold">Abir Islam</span>
                         </div>
                         <span>Admission Officer Of Foodland Company, Canada</span>
 
                         {/* CEO Title */}
-                        <p className="text-lg font-medium">CEO, Travel Lane Connect</p>
+                        <p className="text-lg font-medium">CEO, Latitude Overseas Limited </p>
                     </div>
 
                     {/* Voice of the COO */}
@@ -56,18 +56,19 @@ export default function VoiceOfTheCEO() {
                         {/* COO Quote */}
                         <p className="text-xl mb-6 font-serif italic max-w-2xl mx-auto">
                             &quot;Collaboration and innovation are at the heart of our operations.
-                            At Travel Lane Connect, we strive to ensure every journey is as smooth
-                            as it is memorable. Together, we build bridges across borders.&quot;
+                            At Latitude Overseas Limited , we strive to ensure every journey is as
+                            smooth as it is memorable. Together, we build bridges across
+                            borders.&quot;
                         </p>
 
                         {/* Quote Icon and COO Name */}
                         <div className="flex justify-center items-center gap-2 mb-2">
                             <FormatQuote className="text-4xl" />
-                            <span className="text-xl font-semibold">Imran Chowdhury</span>
+                            <span className="text-xl font-semibold">Rafi Ahmed</span>
                         </div>
 
                         {/* COO Title */}
-                        <p className="text-lg font-medium">COO, Travel Lane Connect</p>
+                        <p className="text-lg font-medium">COO, Latitude Overseas Limited </p>
                         <p>+13435013963</p>
                     </div>
                 </div>

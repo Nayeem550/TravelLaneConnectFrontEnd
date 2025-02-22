@@ -10,7 +10,9 @@ export default function AboutPage() {
             <Section className="!py-16 relative  ">
                 <div className="container mx-auto px-6">
                     <div className="text-center mb-12">
-                        <h2 className="text-4xl font-extrabold ">About Travel Lane Connect</h2>
+                        <h2 className="text-4xl font-extrabold ">
+                            About Latitude Overseas Limited{' '}
+                        </h2>
                         <p className="text-xl  mt-4">
                             Your trusted partner in seamless travel experiences, helping you reach
                             your dream destinations with ease.
@@ -21,11 +23,11 @@ export default function AboutPage() {
                     <div className="text-center mb-12">
                         <h3 className="text-3xl font-semibold  mb-4">Our Story</h3>
                         <p className="text-lg  mx-auto max-w-3xl">
-                            Travel Lane Connect was founded with a passion for simplifying travel.
-                            Our team of seasoned professionals works tirelessly to help travelers
-                            achieve their goals and explore the world with confidence. From tailored
-                            visa services to bespoke travel packages, we’re committed to offering
-                            solutions that match the needs of every traveler.
+                            Latitude Overseas Limited was founded with a passion for simplifying
+                            travel. Our team of seasoned professionals works tirelessly to help
+                            travelers achieve their goals and explore the world with confidence.
+                            From tailored visa services to bespoke travel packages, we’re committed
+                            to offering solutions that match the needs of every traveler.
                         </p>
                     </div>
 
@@ -35,7 +37,7 @@ export default function AboutPage() {
                             <TravelExplore className="text-blue-600 text-4xl mb-4" />
                             <h3 className="text-2xl font-semibold text-gray-800">Our Mission</h3>
                             <p className="text-gray-600 mt-4">
-                                At Travel Lane Connect, we aim to empower travelers with
+                                At Latitude Overseas Limited , we aim to empower travelers with
                                 personalized and hassle-free travel solutions. We guide you from
                                 start to finish, making your travel experience unforgettable.
                             </p>

@@ -12,7 +12,7 @@ export default function ContactPage() {
                     {/* Header */}
                     <div className="text-center mb-12">
                         <h2 className="text-4xl font-extrabold text-gray-800">
-                            Connect with Travel Lane Connect
+                            Connect with Latitude Overseas Limited
                         </h2>
                         <p className="text-xl text-gray-600 mt-4">
                             Reach out to us for personalized assistance, inquiries, or collaboration
@@ -30,7 +30,7 @@ export default function ContactPage() {
                         <div className="flex flex-col items-center bg-gradient-to-r from-green-500 to-green-700 p-6 rounded-lg shadow-lg text-white transition-transform duration-300 hover:scale-105">
                             <Email className="text-5xl mb-4" />
                             <h3 className="text-xl font-semibold">Email Us</h3>
-                            <p className="mt-2 text-center">info@travellaneconnect.com</p>
+                            <p className="mt-2 text-center">info@latitudeoverseas.com</p>
                         </div>
                         <div className="flex flex-col items-center bg-gradient-to-r from-purple-500 to-purple-700 p-6 rounded-lg shadow-lg text-white transition-transform duration-300 hover:scale-105">
                             <LocationOn className="text-5xl mb-4" />

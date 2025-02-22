@@ -49,8 +49,9 @@ export default function Header() {
     return (
         <Section className={'bg-primary-main bg-opacity-20 sticky top-0 z-50 backdrop-blur-lg'}>
             <div className="flex justify-between items-center">
-                <div className="basis-1/6 mobile-lg:basis-1/2">
-                    <img className="w-32  " src="/logo.svg" alt="Logo" />
+                <div className="basis-1/6 flex items-center mobile-lg:basis-1/2">
+                    <img className="h-12  " src="/logo.svg" alt="Logo" />
+                    <h1 className="font-bold text-xl text-primary-main">Latitude Overseas</h1>
                 </div>
 
                 {/* Main Menu (Navlinks) - Hidden on mobile */}
@@ -84,8 +85,8 @@ export default function Header() {
             </div>
 
             {/* Mobile Menu Drawer */}
-            <Drawer anchor="right" open={menuOpen} onClose={toggleMenu}>
-                <div className="p-4 !w-1/3 pr-10">
+            <Drawer anchor="right" open={menuOpen} onClose={toggleMenu} sx={{ width: '100%' }}>
+                <div className="p-4  pr-10">
                     <Navlinks /> {/* Mobile navigation links */}
                 </div>
             </Drawer>

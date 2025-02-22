@@ -14,7 +14,7 @@ export default function Footer() {
                         </div>
                         <div className="flex items-center gap-2 mobile-lg:justify-center">
                             <Email className="text-lg" />
-                            <span>info@travellaneconnect.com</span>
+                            <span>info@latitudeoverseas.com</span>
                         </div>
                         <div className="flex items-center gap-2 mobile-lg:justify-center mobile-lg:text-center mobile-lg:px-4">
                             <LocationOn className="text-lg" />
@@ -24,7 +24,11 @@ export default function Footer() {
                 </div>
                 <div className="basis-1/3 flex flex-col gap-4 items-center text-center mobile-lg:items-center order-2 mobile-lg:order-1">
                     <Link to={'/'}>
-                        <img className="h-16" src="/logo.svg" alt="Travel Lane Connect Logo" />
+                        <img
+                            className="h-16"
+                            src="/logo.svg"
+                            alt="Latitude Overseas Limited  Logo"
+                        />
                     </Link>
                     <h5 className="w-4/5">Your trusted partner for seamless travel solutions</h5>
                 </div>
@@ -35,7 +39,7 @@ export default function Footer() {
             </div>
             <hr />
             <div className="text-center my-5">
-                <p>@2024 Travel Lane Connect | All Rights Reserved.</p>
+                <p>@2024 Latitude Overseas Limited | All Rights Reserved.</p>
             </div>
         </Section>
     );
