@@ -10,15 +10,15 @@ export default function Footer() {
                     <div className="flex flex-col gap-2">
                         <div className="flex items-center gap-2 mobile-lg:justify-center">
                             <Phone className="text-lg" />
-                            <span>+1 (902) 813-5153</span>
+                            <span>+1 (506) 436-4498</span>
                         </div>
                         <div className="flex items-center gap-2 mobile-lg:justify-center">
                             <Email className="text-lg" />
-                            <span>info@latitudeoverseas.com</span>
+                            <span>info@latitudeoverseas.online</span>
                         </div>
                         <div className="flex items-center gap-2 mobile-lg:justify-center mobile-lg:text-center mobile-lg:px-4">
                             <LocationOn className="text-lg" />
-                            <span>456 Vodden St E, Brampton, ON L6S 5Y7, Canada</span>
+                            <span> 456 Vodden St E, Brampton, ON L6S 5Y7, Canada...Ava NW Edmonlod AB T6E 5L7,Ottawa CANADA</span>
                         </div>
                     </div>
                 </div>

@@ -38,6 +38,7 @@ export default function VoiceOfTheCEO() {
 
                         {/* CEO Title */}
                         <p className="text-lg font-medium">CEO, Latitude Overseas Limited </p>
+                        <p>Whatsapp: +1 (778) 765-3682</p>
                     </div>
 
                     {/* Voice of the COO */}
@@ -69,7 +70,7 @@ export default function VoiceOfTheCEO() {
 
                         {/* COO Title */}
                         <p className="text-lg font-medium">COO, Latitude Overseas Limited </p>
-                        <p>+13435013963</p>
+                        <p>Whatsapp: +1 (636) 406-1299</p>
                     </div>
                 </div>
 

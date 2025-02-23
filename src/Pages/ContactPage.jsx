@@ -25,18 +25,18 @@ export default function ContactPage() {
                         <div className="flex flex-col items-center bg-gradient-to-r from-blue-500 to-blue-700 p-6 rounded-lg shadow-lg text-white transition-transform duration-300 hover:scale-105">
                             <Phone className="text-5xl mb-4" />
                             <h3 className="text-xl font-semibold">Call Us</h3>
-                            <p className="mt-2 text-center">+1 (902) 813-5153</p>
+                            <p className="mt-2 text-center">+1 (506) 436-4498</p>
                         </div>
                         <div className="flex flex-col items-center bg-gradient-to-r from-green-500 to-green-700 p-6 rounded-lg shadow-lg text-white transition-transform duration-300 hover:scale-105">
                             <Email className="text-5xl mb-4" />
                             <h3 className="text-xl font-semibold">Email Us</h3>
-                            <p className="mt-2 text-center">info@latitudeoverseas.com</p>
+                            <p className="mt-2 text-center">info@latitudeoverseas.online</p>
                         </div>
                         <div className="flex flex-col items-center bg-gradient-to-r from-purple-500 to-purple-700 p-6 rounded-lg shadow-lg text-white transition-transform duration-300 hover:scale-105">
                             <LocationOn className="text-5xl mb-4" />
                             <h3 className="text-xl font-semibold">Visit Us</h3>
                             <p className="mt-2 text-center">
-                                456 Vodden St E, Brampton, ON L6S 5Y7, Canada
+                                 456 Vodden St E, Brampton, ON L6S 5Y7, Canada...Ava NW Edmonlod AB T6E 5L7,Ottawa CANADA
                             </p>
                         </div>
                         <div className="flex flex-col items-center bg-gradient-to-r from-red-500 to-red-700 p-6 rounded-lg shadow-lg text-white transition-transform duration-300 hover:scale-105">
